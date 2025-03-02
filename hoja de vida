@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Hoja de Vida</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #e6e0ca;
+    color: #500711;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 2.5em;
+    color: #b0041a;
+  
+  
+}
+
+
+
+h2 {
+    font-size: 1.8em;
+  color: #ed988d;
+  background-color: #500711;;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #31333f;
+}
+
+
+.download-btn {
+    background-color: #e6e0ca;
+    color: #ed988d;
+    font-size: 1.1em;
+    
+}
+</style>
+<body>
+    <p>
+        <h1>Ana López</h1>
+        <p>Diseñadora Gráfica</p>
+        <img src="https://assets.pinterest.com/ext/embed.html?id=68257750597529298" alt="Foto de Ana López" class="avatar">
+        <p><strong>Fecha de Nacimiento:</strong> 15 de Marzo de 1995</p>
+        <p><strong>Ciudad y País:</strong> Buenos Aires, Argentina</p>
+        <p><strong>Teléfono:</strong> 11-2345-6789</p>
+        <p><strong>Email:</strong> <a> analopes@email.com</a></p>
+    </p>
+
+    <h2>Perfil Profesional</h2>
+    <p>Soy diseñadora gráfica con más de 5 años de experiencia creando soluciones visuales para marcas y empresas. Me apasiona la creación de identidades visuales y el diseño web. Busco nuevos desafíos en los que pueda aportar mi creatividad y visión estratégica en diseño.</p>
+
+    <h2>Educación</h2>
+    <h3>Licenciatura en Diseño Gráfico</h3>
+    <p><strong>Universidad de Buenos Aires (UBA)</strong> | 2013 - 2017</p>
+    <p>Licenciatura en Diseño Gráfico con enfoque en comunicación visual y diseño digital.</p>
+
+    <h2>Experiencia Laboral</h2>
+    <h3>Diseñadora Gráfica Senior</h3>
+    <p><strong>Agencia Creativa XYZ</strong> | Febrero 2020 - Presente</p>
+    <ul>
+        <li>Diseño de campañas publicitarias y piezas gráficas para redes sociales y medios impresos.</li>
+        <li>Creación de logotipos y desarrollo de la identidad visual de marcas.</li>
+        <li>Coordinación de equipos de diseño en proyectos multidisciplinarios.</li>
+    </ul>
+
+    <h3>Diseñadora Gráfica</h3>
+    <p><strong>Estudio de Diseño ABC</strong> | Enero 2018 - Enero 2020</p>
+    <ul>
+        <li>Diseño de materiales promocionales y corporativos.</li>
+        <li>Colaboración en el desarrollo de sitios web y diseño UX/UI.</li>
+    </ul>
+
+    <h2>Habilidades</h2>
+    <ul>
+        <li>Adobe Photoshop, Illustrator, InDesign</li>
+        <li>Diseño UX/UI</li>
+        <li>HTML, CSS básico</li>
+        <li>Comunicación visual y branding</li>
+        <li>Trabajo en equipo, Creatividad, Gestión de proyectos</li>
+    </ul>
+
+    <h2>Idiomas</h2>
+    <ul>
+        <li>Español (Nativo)</li>
+        <li>Inglés (Avanzado)</li>
+    </ul>
+
+    <h2>Contacto</h2>
+    <p>Si deseas obtener más información, no dudes en contactarme o descargar mi hoja de vida en formato PDF.</p>
+    <a href="hoja_de_vida.pdf" class="download-btn" download>Descargar PDF</a>
+</body>
+</html>
